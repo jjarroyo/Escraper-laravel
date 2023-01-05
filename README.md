@@ -2,8 +2,8 @@ Datos del proyecto
  <br> <br>
 Laravel 8 <br>
 PHP 7.4.25 <br>
-Node 16.13 <br>
-
+Node 16.13 <br> <br>
+https://www.rincondeproyectos.com/2022/12/scraper-laravel.html
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
